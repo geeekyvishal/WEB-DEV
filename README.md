@@ -5,7 +5,7 @@ As you can see in the above image its a web Calculator which can do all the basi
 Its features are:  
 ⭐ Gradient background to give Aesthetic Design    
 ⭐ Button becomes active when hovered for better user experience  
-⭐ Deisgn similar to a physical calculator makes it more handy to use 
+⭐ Design similar to a physical calculator makes it more handy to use 
     
 For suggestions Contact me on:  
 Telegram: @geekyvishal  
